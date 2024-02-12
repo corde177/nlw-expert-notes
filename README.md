@@ -21,6 +21,6 @@ Para evoluir o projeto, usou-se  as bibliotecas Radix UI (para uso de modal), da
 
 # Get Started
 
-- [x]  Git Clone [link do repositório]
+- [x]  Git Clone 
 - [x]  npm install
 - [x]  npm run dev
